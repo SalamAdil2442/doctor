@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>235788135367-9hqsc2b945p4aig1num0t1k2slauv2n3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.235788135367-9hqsc2b945p4aig1num0t1k2slauv2n3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBUm3T9LaXayAnNgO5y8PLrv68jHH_qV8U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>235788135367</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mod.tandrwstito</string>
+	<key>PROJECT_ID</key>
+	<string>tandrustito-b76da</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tandrustito-b76da.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:235788135367:ios:44af57f148ac2bb94c87e2</string>
+</dict>
+</plist>
